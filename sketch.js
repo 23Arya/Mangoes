@@ -75,7 +75,6 @@ function draw() {
   ground.display();
   launcher.display();
 
-
   detectollision(stone,mango1);
   detectollision(stone,mango2);
   detectollision(stone,mango3);
